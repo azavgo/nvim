@@ -6,7 +6,7 @@ return {
 
         configs.setup({
             ensure_installed = {
-                "c", "lua", "vim", "vimdoc", "query", "elixir", "heex", "javascript", "html"
+                "c", "lua", "vim", "vimdoc", "javascript", "html", "rust", "asm", "bash", "bibtex", "cmake", "cpp", "css", "csv", "fortran", "git_config", "git_rebase", "gitattributes", "gitcommit", "gitignore", "gnuplot", "jsdoc", "json", "json5", "latex", "markdown", "nasm", "toml", "typescript", "typst" 
             },
             auto_install = true,
             sync_install = false,
